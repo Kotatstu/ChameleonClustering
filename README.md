@@ -12,7 +12,6 @@
 
 
   
-  ... (Thêm thành viên nếu có)
 
 ## Giáo Viên Hướng Dẫn
 - **Họ và tên**: Đinh Nguyên Trọng Nghĩa
