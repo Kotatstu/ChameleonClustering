@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/581e23dd-38da-4975-856f-c9fc2d132b68)# Tên Đề Tài: [Tên Đề Tài Của Bạn]
+# Tên Đề Tài: Phân cụm chameleon
 
 ## Thành Viên Nhóm
 - **Họ và tên**: Nguyễn Hoàng Long - Nhóm trưởng
